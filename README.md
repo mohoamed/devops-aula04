@@ -4,4 +4,5 @@ Gladiador
 Amor Além da Vida
 Encontro Marcado
 
-Continiação do exercicio da aula 5
+Continuação do exercicio da aula 5
+
